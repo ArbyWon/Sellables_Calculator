@@ -1,6 +1,6 @@
 # Sellables Conversion Application
 **Software Design Project**
-
+https://drive.google.com/file/d/1f9Ps04c526i_zPZsjEYHt6Lqtzmm6fBy/view?usp=sharing
 ## Overview
 The Sellables Conversion Application is a lightweight, standalone Windows desktop tool built with Python and CustomTkinter. It is designed to help users calculate the conversion values for various in-game items (such as Shells, Mushrooms, Trash, Body Parts, etc.) into a base unit (Trochus) and total Gralats. It also features a built-in user authentication system and personal inventory management.
 
